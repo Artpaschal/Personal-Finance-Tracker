@@ -52,7 +52,7 @@ This project was inspired by a learning session by https://www.linkedin.com/in/F
 Thanks to Freedom Oboh for the step-by-step guidance and Evergreen Digital Tech Solution for hosting the session at the perfect time.
 
 # Others
-Linkedin Post
+Linkedin Post - https://www.linkedin.com/posts/paschalobiamalu_exceldashboard-dataanalysis-storytellingwithdata-activity-7315067751843139584-NT1E?utm_source=share&utm_medium=member_android&rcm=ACoAAB-4WS0BCZvLkx3LbxM9iYA6SfxSzf8yA7U
 
 # 📬 Contact
 If you have any questions, feedback, or collaboration ideas, feel free to reach out:
