@@ -15,5 +15,6 @@ Microsoft Excel
 Pivot Tables
 Slicers
 Custom Icons from https://www.flaticon.com/
+
 Wireframing and Layout Planning
 UX-focused Dashboard Design
