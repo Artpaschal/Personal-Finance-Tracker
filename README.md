@@ -9,6 +9,10 @@ Visualize category-wise spending,
 Understand saving patterns,
 Interact with data dynamically
 
+# Visualization
+
+![](https://github.com/Artpaschal/Personal-Finance-Tracker/blob/main/dataX%20finance%20%20tracker.png)
+
 # Tools & Features Used
 
 Microsoft Excel,
